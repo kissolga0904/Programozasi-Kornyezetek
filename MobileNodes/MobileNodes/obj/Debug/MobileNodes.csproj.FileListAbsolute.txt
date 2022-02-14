@@ -1,0 +1,6 @@
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\bin\Debug\MobileNodes.exe.config
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\bin\Debug\MobileNodes.exe
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\bin\Debug\MobileNodes.pdb
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\obj\Debug\MobileNodes.csprojResolveAssemblyReference.cache
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\obj\Debug\MobileNodes.exe
+D:\Kiss Olga\Programozási technológiák\MobileNodes\MobileNodes\obj\Debug\MobileNodes.pdb
